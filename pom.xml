@@ -13,7 +13,6 @@
     <modules>
         <module>rocketmq-replicator-controller</module>
         <module>rocketmq-replicator-worker</module>
-        <module>rocketmq-sync</module>
     </modules>
 
     <properties>
